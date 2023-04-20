@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="reactNativeCodePush_androidDeploymentKey" moduleConfig="true" translatable="false">add-key-here</string>
+
+</resources>

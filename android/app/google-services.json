@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "959559680390",
+    "project_id": "assignment-d002a",
+    "storage_bucket": "assignment-d002a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959559680390:android:9cc780f5221192e8d02c07",
+        "android_client_info": {
+          "package_name": "com.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959559680390-e3uqiggsnqgojveuo5cojsp8g50p8q96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA58bXU1qQ4jvl-YqpowcgXDNVe07855Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959559680390-e3uqiggsnqgojveuo5cojsp8g50p8q96.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "959559680390-gjth37nhgosbggi0il3u13hqjgso7u4u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Assignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
